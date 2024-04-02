@@ -25,7 +25,7 @@ Hello! I'm Syafarul Priwantoro, a passionate web developer with expertise in Lar
 
 ## Education
 
-- Bachelor's Degree in Computer Science, XYZ University
+- Currently enrolled as an active student at TELKOM University, Surabaya, pursuing a Bachelor's Degree in Computer Science.
 
 ## Certifications
 
